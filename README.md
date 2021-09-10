@@ -30,6 +30,7 @@
 ## ⚙ 개발 환경
 - `Java` : 1.8 version
 - `Eclipse` : photon
+- `OracleDB`
 - `JPA`
 - `Tomcat`
 - `Servlet` / `JSP`
