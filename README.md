@@ -31,8 +31,9 @@
 - `Java` : 1.8 version
 - `Eclipse` : photon
 - `OracleDB`
-- `JPA`
+- `Maven`
 - `Tomcat`
+- `JPA` / `Lombok`
 - `Servlet` / `JSP`
 - `HTML` / `CSS` / `JavaScript`
 
