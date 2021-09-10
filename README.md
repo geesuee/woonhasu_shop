@@ -1,4 +1,5 @@
 # woonhasu_shop
+![home (1)](https://user-images.githubusercontent.com/68639271/132803640-28fb487e-f4cf-4742-87a4-93db237fdb68.gif)
 
 ## 🛍 운하수 쇼핑
 
